@@ -1,4 +1,3 @@
-Here's a sample `README.md` for your recipe search app, complete with emojis to make it more appealing and engaging.
 
 ```markdown
 # 🍽️ Reaciarch
