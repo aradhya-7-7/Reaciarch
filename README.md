@@ -68,7 +68,7 @@ The app features a modern and curvy design that is fully responsive for mobile d
 
 ## 📷 Screenshots
 
-![Home Screen](path/to/your/screenshot1.png) ![Recipe Detail](path/to/your/screenshot2.png)
+![Homescreen](https://github.com/user-attachments/assets/1efba480-7591-4a6e-b4f8-341d9a70a698) ![RecipeDetail](https://github.com/user-attachments/assets/442c1827-9ffb-4fbd-93f0-96caee923945)
 
 ## 🤝 Contributing
 
